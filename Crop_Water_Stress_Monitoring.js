@@ -1,5 +1,5 @@
 // Evapotranspiration and Crop Water Stress Monitoring Using MODIS Dataset in Google Earth Engine
-// FINAL STABLE SCRIPT: Maps + Legends + YEARLY chart + Monthly climatology + 3D Pie charts
+//  Maps + Legends + YEARLY chart + Monthly climatology + 3D Pie charts
 // Fixes included:
 // 1) reduceRegion uses geometry:
 // 2) ROI geometry transformed to MODIS projection (avoids SR-ORG:6974 vs EPSG:4326)
